@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/cryptocoin/static/js/main.c2eeb193.js",
-    "static/media/btc.png": "/cryptocoin/static/media/btc.b178d32212d0d4fd9d14.png",
-    "index.html": "/cryptocoin/index.html",
-    "main.c2eeb193.js.map": "/cryptocoin/static/js/main.c2eeb193.js.map"
+    "main.js": "/cryptocoinjs/static/js/main.48118c85.js",
+    "static/media/btc.png": "/cryptocoinjs/static/media/btc.b178d32212d0d4fd9d14.png",
+    "index.html": "/cryptocoinjs/index.html",
+    "main.48118c85.js.map": "/cryptocoinjs/static/js/main.48118c85.js.map"
   },
   "entrypoints": [
-    "static/js/main.c2eeb193.js"
+    "static/js/main.48118c85.js"
   ]
 }
